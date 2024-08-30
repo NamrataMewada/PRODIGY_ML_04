@@ -4,7 +4,7 @@ This repository contains a deep learning model for recognizing hand gestures. Th
 ## Project Overview
 The goal of this project is to create a deep learning model that can accurately identify and classify different hand gestures from image data. This can be used in various applications such as human-computer interaction, gesture-based control systems, and more.
 
-Dataset: https://www.kaggle.com/datasets/roobansappani/hand-gesture-recognition/data
+### Dataset: https://www.kaggle.com/datasets/roobansappani/hand-gesture-recognition/data
 The dataset consists of images of hands showing various gestures.
 
 ### Model Architecture
